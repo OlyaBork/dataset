@@ -1,0 +1,6 @@
+first name, last name, age
+Petro, Petrenko, 20
+
+
+
+comma saparated value
